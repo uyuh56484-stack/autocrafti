@@ -1,0 +1,8 @@
+{
+  "block.autocraftingstation.crafting_station": "Auto Crafting Station",
+  "item.autocraftingstation.crafting_station": "Auto Crafting Station",
+  "itemGroup.autocraftingstation": "Auto Crafting Station",
+  "screen.autocraftingstation.auto_craft": "Station Autocrafting",
+  "gui.autocraftingstation.toggle": "Enable / Disable",
+  "gui.autocraftingstation.clear": "Clear recipe"
+}

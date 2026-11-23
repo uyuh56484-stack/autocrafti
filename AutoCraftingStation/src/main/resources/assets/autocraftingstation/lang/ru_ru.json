@@ -1,0 +1,8 @@
+{
+  "block.autocraftingstation.crafting_station": "Автоматическая станция крафта",
+  "item.autocraftingstation.crafting_station": "Автоматическая станция крафта",
+  "itemGroup.autocraftingstation": "Auto Crafting Station",
+  "screen.autocraftingstation.auto_craft": "Автокрафт станции",
+  "gui.autocraftingstation.toggle": "Вкл. / Выкл.",
+  "gui.autocraftingstation.clear": "Очистить рецепт"
+}

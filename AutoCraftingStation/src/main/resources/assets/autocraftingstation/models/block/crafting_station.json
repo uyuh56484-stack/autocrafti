@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "autocraftingstation:block/crafting_station_side",
+    "down": "autocraftingstation:block/crafting_station_bottom",
+    "up": "autocraftingstation:block/crafting_station_top",
+    "north": "autocraftingstation:block/crafting_station_front",
+    "south": "autocraftingstation:block/crafting_station_side",
+    "east": "autocraftingstation:block/crafting_station_side",
+    "west": "autocraftingstation:block/crafting_station_side"
+  }
+}
